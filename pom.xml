@@ -16,7 +16,7 @@
 
 	<properties>
 		<spring-data-jdbc.version>1.2.1.RELEASE</spring-data-jdbc.version>
-		<springfox-swagger.version>2.6.1</springfox-swagger.version>
+		<springfox-swagger.version>2.10.0</springfox-swagger.version>
 
 	</properties>
 
